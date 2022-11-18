@@ -28,11 +28,21 @@ wheels/
 # Large data
 *.nc
 *.zip
+<<<<<<< HEAD
+=======
 *.gz
+>>>>>>> c9fb80b09f013b2c3ddb183def6bd615054202c1
 
 # OSx junk
 *DS_Store*
 
 # Repo specific
+<<<<<<< HEAD
+1_OLCI_introductory/products/
+1_OLCI_introductory/*.png
+2_OLCI_advanced/products/
+2_OLCI_advanced/*.png
+=======
 1_OSI_SAF_wind_introductory/*.png
 2_OSI_SAF_wind_advanced/*.png
+>>>>>>> c9fb80b09f013b2c3ddb183def6bd615054202c1

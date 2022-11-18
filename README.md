@@ -17,6 +17,7 @@ All company, product and service names used in this website are for identificati
 purposes only.
 
 ## Authors
+
 * [**Olivier Membrive**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
 * [**Cécile Hernandez**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
 * [**Ad Stoffelen**](mailto://osi-saf.manager@meteo.fr) - [OSI SAF](https://osi-saf.eumetsat.int)
@@ -46,6 +47,8 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
 |cmcrameri|1.4|MIT|https://anaconda.org/conda-forge/cmcrameri|
+|xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
+
 
 ## Installation
 
@@ -142,7 +145,6 @@ please contact us on copernicus.training@eumetsat.int. If you are have issues an
 need help, or you have found something that doesn't work, then please contact us 
 at ops@eumetsat.int. We welcome your feedback!
 
-<hr>
 <hr>
 
 ### Overview for advanced users
