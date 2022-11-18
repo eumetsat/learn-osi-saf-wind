@@ -12,6 +12,7 @@ license_text_file: LICENSE.txt
 # File(s) associated to this component
 
 about_resource: ./1_OSI_SAF_wind_introductory/1_1a_OSI_SAF_wind_FTP_data_acces.ipynb
+about_resource: ./1_OSI_SAF_wind_introductory/1_2_OSI_SAF_wind_file_structure.ipynb
 about_resource: ./1_OSI_SAF_wind_introductory/1_3_OSI_SAF_mapping_wind.ipynb
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
