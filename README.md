@@ -48,14 +48,12 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |netcdf4|1.5.8|MIT|https://anaconda.org/conda-forge/netcdf4|
 |matplotlib|3.5.1|PSFL|https://matplotlib.org/stable/users/project/license.html|
 |cartopy|0.20.2|LGPL-3|https://scitools.org.uk/cartopy/docs/latest/copyright.html|
-|notebook|6.4.12|BSD-3|https://anaconda.org/conda-forge/notebook|
-|jupyter_contrib_nbextensions|0.5.1|BSD-3|https://anaconda.org/conda-forge/jupyter_contrib_nbextensions|
+|jupyterlab|3.4.4|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
 |ipywidgets|7.6.5|BSD-3|https://anaconda.org/conda-forge/ipywidgets|
 |ipykernel|6.4.1|BSD-3|https://anaconda.org/conda-forge/ipykernel|
 |cmocean|2.0|MIT|https://anaconda.org/conda-forge/cmocean|
 |cmcrameri|1.4|MIT|https://anaconda.org/conda-forge/cmcrameri|
 |xarray|0.21.1|Apache-2.0|https://anaconda.org/conda-forge/xarray|
-
 
 ## Installation
 
@@ -169,11 +167,6 @@ at ops@eumetsat.int. We welcome your feedback!
 
 `ipython kernel install --user --name=cmts_learn_osi_saf_wind`
 
-**Activate extensions (1st run in environment, only)**
-
-`jupyter nbextension enable --py widgetsnbextension` \
-`jupyter nbextension enable exercise2/main`
-
 **Run**
 
-`jupyter notebook` or `jupyter-notebook`
+`jupyter lab`
