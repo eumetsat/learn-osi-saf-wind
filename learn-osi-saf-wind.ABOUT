@@ -3,7 +3,7 @@ name: learn-osi-saf-wind
 description: Compendium of training content associated with the OSI SAF wind catalogue
 copyright: 2023 EUMETSAT
 license_spdx: MIT
-date: 06-02-2023
+date: 01-07-2023
 home_url: https://gitlab.eumetsat.int/eo-lab-usc-open/ocean/sensors/learn-osi-saf-wind
  
 # Package IPR documentation
@@ -17,6 +17,8 @@ about_resource: ./1_OSI_SAF_wind_introductory/1_3_OSI_SAF_mapping_wind.ipynb
 about_resource: ./img/thumbs/1_1_OSI_SAF_wind_FTP_data_access_thumb.png
 about_resource: ./img/thumbs/1_2_OSI_SAF_wind_file_structure_thumb.png
 about_resource: ./img/thumbs/1_3_OSI_SAF_mapping_wind_thumb.png
+about_resource: CHANGELOG
+about_resource: CONTRIBUTING.txt
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt
