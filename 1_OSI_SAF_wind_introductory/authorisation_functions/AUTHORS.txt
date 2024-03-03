@@ -1,0 +1,9 @@
+# Copyright holder
+EUMETSAT
+ 
+# List of development authors
+Ben Loveday, ben.loveday@external.eumetsat.int (under contract EUM/CO/18/4600001992/SW)
+
+# Contributory authors
+
+# Acknowledgements
