@@ -1,21 +1,22 @@
-# copyright: 2023 EUMETSAT
+# copyright: 2024 EUMETSAT
 # license: LICENSE.txt
 name: cmts_learn_osi_saf_wind
 channels:
   - conda-forge
   - eumetsat
 dependencies:
-  - conda-forge::python=3.9
+  # Core
+  - conda-forge::python=3.10
   - conda-forge::jupyterlab
-  - conda-forge::netcdf4
-  - conda-forge::matplotlib
-  - conda-forge::cartopy
   - conda-forge::ipywidgets
-  - conda-forge::jupyter_nbextensions_configurator
-  - conda-forge::ipykernel
+  - conda-forge::dask
+  - conda-forge::xarray=2024.1.1
+  - conda-forge::netcdf4
+  - conda-forge::scipy
+  - conda-forge::matplotlib=3.8
+  - conda-forge::cartopy
   - conda-forge::cmocean
-  - conda-forge::cmcrameri
-  - conda-forge::xarray
-  - conda-forge::pydap
+  # External
+  - eumetsat::eumdac  
+  # Extension
   - conda-forge::owslib
-  - eumetsat::eumdac
