@@ -19,9 +19,14 @@ about_resource: ./1_OSI_SAF_wind_introductory/1_3a_OSI_SAF_wind_mapping_ASCAT.ip
 about_resource: ./1_OSI_SAF_wind_introductory/1_3a_OSI_SAF_wind_mapping_HY.ipynb
 about_resource: ./2_OSI_SAF_wind_advanced/2_1a_OSI_SAF_wind_advanced_mapping.ipynb
 about_resource: ./2_OSI_SAF_wind_advanced/2_1b_OSI_SAF_wind_advanced_mapping_Case_study_typhoon.ipynb
-about_resource: ./img/thumbs/1_1_OSI_SAF_wind_FTP_data_access_thumb.png
-about_resource: ./img/thumbs/1_2_OSI_SAF_wind_file_structure_thumb.png
-about_resource: ./img/thumbs/1_3_OSI_SAF_mapping_wind_thumb.png
+about_resource: ./img/thumbs/1_1a_OSI_SAF_wind_FTP_data_access_thumb.png
+about_resource: ./img/thumbs/1_1b_OSI_SAF_wind_data_access_eumdac_thumb.png
+about_resource: ./img/thumbs/1_2a_OSI_SAF_wind_ASCAT_file_structure_thumb.png
+about_resource: ./img/thumbs/1_2b_OSI_SAF_wind_HY_file_structure_thumb.png
+about_resource: ./img/thumbs/1_3a_OSI_SAF_wind_mapping_ASCAT_thumb.png
+about_resource: ./img/thumbs/1_3b_OSI_SAF_wind_mapping_HY_thumb.png
+about_resource: ./img/thumbs/2_1a_OSI_SAF_wind_advanced_mapping_thumb.png
+about_resource: ./img/thumbs/2_1b_OSI_SAF_wind_advanced_mapping_Case_study_typhoon_thumb.png
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt
